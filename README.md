@@ -1,4 +1,4 @@
-#Aplikasi Generasi Kata
+<h1>Aplikasi Generasi Kata
 Aplikasi ini dirancang untuk membantu pengguna memahami dan mengimplementasikan dua algoritma kriptografi dasar, yaitu ROT13 dan Rail Fence Cipher. Dengan antarmuka yang sederhana, aplikasi ini memudahkan pengguna untuk mengenkripsi dan mendekripsi teks secara interaktif.
 
 #Fitur Utama
